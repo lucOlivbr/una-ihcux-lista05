@@ -1,0 +1,14 @@
+c:\Users\lucas\Desktop\LabDotnet\ConversorExpert\bin\Debug\net10.0\ConversorExpert.exe
+c:\Users\lucas\Desktop\LabDotnet\ConversorExpert\bin\Debug\net10.0\ConversorExpert.deps.json
+c:\Users\lucas\Desktop\LabDotnet\ConversorExpert\bin\Debug\net10.0\ConversorExpert.runtimeconfig.json
+c:\Users\lucas\Desktop\LabDotnet\ConversorExpert\bin\Debug\net10.0\ConversorExpert.dll
+c:\Users\lucas\Desktop\LabDotnet\ConversorExpert\bin\Debug\net10.0\ConversorExpert.pdb
+c:\Users\lucas\Desktop\LabDotnet\ConversorExpert\obj\Debug\net10.0\ConversorExpert.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\lucas\Desktop\LabDotnet\ConversorExpert\obj\Debug\net10.0\ConversorExpert.AssemblyInfoInputs.cache
+c:\Users\lucas\Desktop\LabDotnet\ConversorExpert\obj\Debug\net10.0\ConversorExpert.AssemblyInfo.cs
+c:\Users\lucas\Desktop\LabDotnet\ConversorExpert\obj\Debug\net10.0\ConversorExpert.csproj.CoreCompileInputs.cache
+c:\Users\lucas\Desktop\LabDotnet\ConversorExpert\obj\Debug\net10.0\ConversorExpert.dll
+c:\Users\lucas\Desktop\LabDotnet\ConversorExpert\obj\Debug\net10.0\refint\ConversorExpert.dll
+c:\Users\lucas\Desktop\LabDotnet\ConversorExpert\obj\Debug\net10.0\ConversorExpert.pdb
+c:\Users\lucas\Desktop\LabDotnet\ConversorExpert\obj\Debug\net10.0\ConversorExpert.genruntimeconfig.cache
+c:\Users\lucas\Desktop\LabDotnet\ConversorExpert\obj\Debug\net10.0\ref\ConversorExpert.dll
